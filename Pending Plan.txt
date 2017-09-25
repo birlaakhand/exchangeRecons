@@ -1,0 +1,13 @@
+MVP Pending tasks
+	o Thorough testing
+	o DB Testing
+	o Queries' final versions
+	o Path flexibilitty
+	
+Overall Pending changes
+	o Modularity
+	o Embed stuff in form of user controls
+		- Scheduler timings
+		- Param Extraction
+	o Logging
+	o Documentation 

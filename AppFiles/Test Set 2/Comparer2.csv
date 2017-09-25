@@ -1,0 +1,5 @@
+"Queue1","Queue2","TargetQueue","Queue1 Action","Queue2 Action","Target Action","Join Type","Queue Structure","Params","Select","Pseudo Query"
+"ICE Matched","ICE Raw Collated","ICE Deleted","Remove","None","Overwrite","Outer Exclude","Same","NA;NA","*;*","Select q2.key from q2 left outer join q1 on q1.key=q2.key"
+"OL Matched","OL Raw","OL Deleted","Remove","None","Overwrite","Outer Exclude","Same","NA;NA","*;*","Select q2.key from q2 left outer join q1 on q1.key=q2.key"
+"ICE Raw Collated","ICE Matched","ICE New","None","None","Overwrite","Outer Exclude","Same","NA;NA","*;*","Select q1.key,q1.otherfields from q1 left outer join q2 on q1.key=q2.key"
+"OL Raw","OL Matched","OL New","None","None","Overwrite","Outer Exclude","Same","NA;NA","*;*","Select q1.key,q1.otherfields from q1 left outer join q2 on q1.key=q2.key"

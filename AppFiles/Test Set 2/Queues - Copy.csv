@@ -1,0 +1,11 @@
+QueueName,OutFile
+ICE Raw Collated,C:\Users\Akhand\Documents\Visual Studio 2015\Projects\ExchangeRecon\ExchangeRecon\AppFiles\ICERawCollated.csv
+OL Raw,C:\Users\Akhand\Documents\Visual Studio 2015\Projects\ExchangeRecon\ExchangeRecon\AppFiles\OLRaw.csv
+ICE Matched,C:\Users\Akhand\Documents\Visual Studio 2015\Projects\ExchangeRecon\ExchangeRecon\AppFiles\ICEMatched.csv
+OL Matched,C:\Users\Akhand\Documents\Visual Studio 2015\Projects\ExchangeRecon\ExchangeRecon\AppFiles\OLMatched.csv
+ICE Deleted,C:\Users\Akhand\Documents\Visual Studio 2015\Projects\ExchangeRecon\ExchangeRecon\AppFiles\ICEDeleted.csv
+OL Deleted,C:\Users\Akhand\Documents\Visual Studio 2015\Projects\ExchangeRecon\ExchangeRecon\AppFiles\OLDeleted.csv
+ICE New,C:\Users\Akhand\Documents\Visual Studio 2015\Projects\ExchangeRecon\ExchangeRecon\AppFiles\ICENew.csv
+OL New,C:\Users\Akhand\Documents\Visual Studio 2015\Projects\ExchangeRecon\ExchangeRecon\AppFiles\OLNew.csv
+ICE New Matched,C:\Users\Akhand\Documents\Visual Studio 2015\Projects\ExchangeRecon\ExchangeRecon\AppFiles\OLNewMatched.csv
+OL New Matched,C:\Users\Akhand\Documents\Visual Studio 2015\Projects\ExchangeRecon\ExchangeRecon\AppFiles\OLNewMatched.csv

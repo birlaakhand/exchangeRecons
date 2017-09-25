@@ -1,0 +1,2 @@
+"Queue1","Queue2","TargetQueue","Queue1 Action","Queue2 Action","Target Action","Join Type","Queue Structure","Params","Select","Pseudo Query"
+"ICE Matched","ICE Raw Collated","ICE Deleted","Remove","None","Overwrite","Outer Exclude","Same","NA;NA","*;*","Select q2.key from q2 left outer join q1 on q1.key=q2.key"

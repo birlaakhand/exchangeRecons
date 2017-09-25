@@ -1,0 +1,3 @@
+"Queue1","Queue2","TargetQueue","Queue1 Action","Queue2 Action","Target Action","Join Type","Queue Structure","Params","Select","Pseudo Query"
+"ICE New Matched","ICE Raw Collated","ICE Matched","None","None","Append","Inner","Diff","PK;PK","NA;*",""
+"OL New Matched","OL Raw","OL Matched","None","None","Append","Inner","Diff","DealID;DealID","NA;*",""
